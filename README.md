@@ -1,16 +1,23 @@
-## Hi there 👋
+Tony Anuge
 
-<!--
-**tonyanuge/tonyanuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product and analytics builder from financial services. I turn data into decisions, with a focus on risk, AML and financial crime.
 
-Here are some ideas to get you started:
+I build practical tools across forecasting, data analysis and workflow automation, drawing on six years of experience across regulated financial services and data-focused work. Most of what I build starts with a real problem and ends with something practical that can be used.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected Projects
+
+PopulationPredictor: Forecasting Ireland's population change using public CSO data, time-series features and multiple ML models.
+
+Traffic-Volume-Forecasting-Analysis: Forecasting Irish weekly traffic volumes using real public data, baseline models and machine learning.
+
+AI-Visibility-Index: AI visibility checker and scoring prototype comparing how local businesses appear across ChatGPT, Gemini and Perplexity recommendations.
+
+docuflow_v2: Document search and workflow-routing prototype using configurable rules, capability checks and audit logging.
+
+Current Focus
+
+AML, financial crime and risk analytics, including transaction profiling, investigation workflows and evidence-based case analysis.
+
+Skills
+
+Python, SQL, Data Analytics, Machine Learning, Time-Series Analysis, FastAPI, Product Analysis, Financial Services
