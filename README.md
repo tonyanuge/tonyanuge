@@ -2,7 +2,7 @@
 
 **Product and analytics builder from financial services.** I turn data into decisions, with a focus on risk, AML and financial crime.
 
-I build practical tools across forecasting, data analysis and workflow automation, drawn from six years in regulated financial services and data-focused work. Most of what I build starts with a real problem and ends with something practical that can be used.
+I build practical tools across forecasting, data analysis and workflow automation, drawn from six years in regulated financial services and data-focused work. Most of what I build starts with a real problem and ends with something practical and usable.
 
 ---
 
@@ -16,7 +16,7 @@ I build practical tools across forecasting, data analysis and workflow automatio
 ## Private / Ongoing Product Work
 
 - **TraceLogic:** Decision-governance product focused on making operational decisions accountable, evidenced, controlled and replayable.
-- **FolderOps:** Private document and workflow-operations product extending the earlier DocuFlow prototype into a more complete operational workflow.
+- **FolderOps:** Private document and workflow-operations product extending the earlier DocuFlow prototype into a more complete operational platform.
 
 <!-- Uncomment when ALC is a working product:
 - **Autonomous Learning Compiler:** Competency-focused learning platform designed around project-based learning, evidence of capability and independent-work verification.
