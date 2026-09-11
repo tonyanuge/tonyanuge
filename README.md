@@ -6,13 +6,17 @@ I build practical tools across forecasting, data analysis and workflow automatio
 
 Selected Projects
 
-PopulationPredictor: Forecasting Ireland's population change using public CSO data, time-series features and multiple ML models.
+PopulationPredictor
+Forecasting Ireland's population change using public CSO data, time-series features and multiple ML models.
 
-Traffic-Volume-Forecasting-Analysis: Forecasting Irish weekly traffic volumes using real public data, baseline models and machine learning.
+Traffic-Volume-Forecasting-Analysis
+Forecasting Irish weekly traffic volumes using real public data, baseline models and machine learning.
 
-AI-Visibility-Index: AI visibility checker and scoring prototype comparing how local businesses appear across ChatGPT, Gemini and Perplexity recommendations.
+AI-Visibility-Index
+AI visibility checker and scoring prototype comparing how local businesses appear across ChatGPT, Gemini and Perplexity recommendations.
 
-docuflow_v2: Document search and workflow-routing prototype using configurable rules, capability checks and audit logging.
+docuflow_v2
+Document search and workflow-routing prototype using configurable rules, capability checks and audit logging.
 
 Current Focus
 
@@ -20,4 +24,4 @@ AML, financial crime and risk analytics, including transaction profiling, invest
 
 Skills
 
-Python, SQL, Data Analytics, Machine Learning, Time-Series Analysis, FastAPI, Product Analysis, Financial Services
+Python · SQL · Data Analytics · Machine Learning · Time-Series Analysis · FastAPI · Product Analysis · Financial Services
