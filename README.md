@@ -29,4 +29,4 @@ Technical Business Analysis across financial services, focused on requirements, 
 
 ## Skills
 
-`Business Analysis` · `Requirements Analysis` · `Process Modelling` · `Python` · `SQL` · `Data Analytics` · `Machine Learning` · `Time-Series Analysis` · `FastAPI` · `Product Analysis` · `Financial Services` · `ML / Financial Crime` · `Jira` · `Confluence`
+`Business Analysis` · `Requirements Analysis` · `Process Modelling` · `Python` · `SQL` · `Data Analytics` · `Product Analysis` · `Financial Services` · `ML / Financial Crime` · `Jira` · `Confluence`
