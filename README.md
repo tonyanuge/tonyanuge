@@ -8,7 +8,7 @@ I build practical tools across forecasting, data analysis and workflow automatio
 
 ## Selected Projects
 
-- **https://github.com/tonyanuge/PopulationPredictor** Forecasting Ireland's population change using public CSO data, time-series features and multiple ML models.
+- **https://github.com/tonyanuge/mortgage-forbearance-control-analysis** Technical Business Analyst case study covering mortgage-forbearance requirements, process modelling, decision controls, Jira traceability and proposed test scenarios.
 - **https://github.com/tonyanuge/Traffic-Volume-Forecasting-Analysis** Forecasting Irish weekly traffic volumes using real public data, baseline models and machine learning.
 - **https://github.com/tonyanuge/AI-Visibility-Index** AI visibility checker and scoring prototype comparing how local businesses appear across ChatGPT, Gemini and Perplexity recommendations.
 - **https://github.com/tonyanuge/docuflow_v2** Document search and workflow-routing prototype using configurable rules, capability checks and audit logging.
