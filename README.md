@@ -25,8 +25,8 @@ I build practical tools across forecasting, data analysis and workflow automatio
 
 ## Current Focus
 
-AML, financial crime and risk analytics, including transaction profiling, investigation workflows and evidence-based case analysis.
+Technical Business Analysis across financial services, focused on requirements, process improvement, controls, data analysis and investigation workflows.
 
 ## Skills
 
-`Python` · `SQL` · `Data Analytics` · `Machine Learning` · `Time-Series Analysis` · `FastAPI` · `Product Analysis` · `Financial Services`
+`Business Analysis` · `Requirements Analysis` · `Process Modelling` · `Python` · `SQL` · `Data Analytics` · `Machine Learning` · `Time-Series Analysis` · `FastAPI` · `Product Analysis` · `Financial Services` · `ML / Financial Crime` · `Jira` · `Confluence`
