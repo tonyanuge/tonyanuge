@@ -1,6 +1,6 @@
 # Tony Anuge
 
-**Product and analytics builder from financial services.** I turn data into decisions, with a focus on risk, AML and financial crime.
+**I build practical projects around systems, data, controls and workflow improvement, with an emphasis on solving real operational problems.
 
 I build practical tools across forecasting, data analysis and workflow automation, drawn from six years in regulated financial services and data-focused work. Most of what I build starts with a real problem and ends with something practical and usable.
 
