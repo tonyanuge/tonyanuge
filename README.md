@@ -1,8 +1,8 @@
 # Tony Anuge
 
-**I build practical projects around systems, data, controls and workflow improvement, with an emphasis on solving real operational problems.
+I build practical projects around systems, data, controls and workflow improvement, with an emphasis on solving real operational problems.
 
-I build practical tools across forecasting, data analysis and workflow automation, drawn from six years in regulated financial services and data-focused work. Most of what I build starts with a real problem and ends with something practical and usable.
+My projects span forecasting, data analysis and workflow automation, drawing on six years of experience in regulated financial services and data-focused roles. Most start with a real problem and aim to produce something useful, testable and grounded in how work actually gets done.
 
 ---
 
